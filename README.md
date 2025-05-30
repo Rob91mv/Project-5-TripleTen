@@ -1,6 +1,5 @@
 # Video Game Sales Analysis Project – Ice Store
-![]([https://i0.wp.com/bestsellingcarsblog.com/wp-content/uploads/2020/01/Geely-Atlas-Belarus-2019.jpg?fit=600%2C400&ssl=1](https://hips.hearstapps.com/hmg-prod/images/most-popular-video-games-of-2022-1642612227.png?crop=1.00xw:1.00xh;0,0&resize=1200:*))
-
+![](https://imageresizer.static9.net.au/J9t78b2NPyuv6aeHS5JcXB0lzto=/736x414/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fce0eb6d3-802a-4027-9bb5-8adba5e1ba59)
 ## Project Overview:
 
 As an analyst at Ice, a global online video game store, this project focuses on identifying the games in its catalog with the highest sales and critical acclaim to plan targeted advertising campaigns for the upcoming year. Using a comprehensive dataset that includes game details, age ratings, regional sales, and user and critic reviews up to December 2016, this analysis aims to uncover trends and promising projects. The goal is not only to support 2017 marketing efforts but also to build data analysis skills that are valuable for future campaigns.
